@@ -94,6 +94,6 @@ def preprocess_function_ch(examples):
 
 # Data Collator for Dynamic Mini-Batch Padding
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-´´´
+```
 
 Authors: Luce Busi, Samuel Cañedo   Release Date: June 28, 2026
